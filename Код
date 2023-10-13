@@ -1,0 +1,7 @@
+command - input("Введите команду: ")
+
+if command -- "idina":
+
+exit() * Выключаем программу
+
+elif command - "gh": print("infinite code 1.2") #Выводим слово "infinite code 1.2"
